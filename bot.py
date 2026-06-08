@@ -162,7 +162,6 @@ DATA = {
         "دراسات في البدعة والمبتدعين 📗":"BQACAgQAAxkBAAIBZ2ohbgdiFnTgMPoqLkYJOZulRU-tAALvHAAC-npRUe1zcSj0YzqTOwQ",
         "دور المرأة في إصلاح المجتمع لابن عثيمين 📗":"BQACAgQAAxkBAAIBYWohbge2o7RMHdXMbbkx48PCD7gGAALMGQACRQKpU_wCkSfGSqOjOwQ",
         "منهج يومي لِطالب العلم_ابن عثيمين 📗":"BQACAgQAAxkBAAIBYGohbgfhsy9_x5u9UA3GoUwl99_SAAI2FwACQXDwUY2vMT9oCDaPOwQ",
-        "المعصية وأثرها السيء على الأمة -للشيخ ربيع رحمه الله- 📗":"BQACAgQAAxkBAAIDq2onOBJsxOaWjTsAAUkbtNZsUd7LfgAC7Q0AArr2yVP9Th9uc2iCPDsE",
         "عوائق الطلب_بنُ بَرجس 📗":"BQACAgQAAxkBAAIBYmohbgevE7C7da_G7TUJQGftiJYcAAL2FQACh5TYU7udxFPmZ1IIOwQ"
     }
 }
